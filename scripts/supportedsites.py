@@ -234,6 +234,8 @@ CATEGORY_MAP = {
     "yandere"        : "yande.re",
     "yiffverse"      : "Yiff verse",
     "yourlesbians"   : "YourLesbians",
+
+    "olympustaff"    : "Olympus Staff",
 }
 
 SUBCATEGORY_MAP = {

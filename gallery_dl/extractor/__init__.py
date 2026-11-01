@@ -264,6 +264,9 @@ modules = [
     "noop",
     "ytdl",
     "generic",
+
+    "olympustaff",
+    "3asq"
 ]
 
 
